@@ -35,3 +35,9 @@ Hair Inspo Pro offers optional premium subscriptions that unlock:
 
 Subscriptions automatically renew unless canceled through your App Store account.
 
+## 📲 App Store
+
+Download on the App Store:
+https://apps.apple.com/us/app/inspo-hair/id6740243681
+<img width="1104" height="460" alt="Screenshot 2026-09-16 144931" src="https://github.com/user-attachments/assets/7cb16d78-8768-4b88-a1a2-c39f0525f3f8" />
+
